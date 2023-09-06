@@ -1,4 +1,10 @@
 # color-marker
+![Screenshot 2023-09-06 233155](https://github.com/jaideepsingh0085/color-marker/assets/128147644/88f65414-96ce-4ffa-bb0a-18e86077d47e)
+![Screenshot 2023-09-06 233207](https://github.com/jaideepsingh0085/color-marker/assets/128147644/62826bf1-c259-4271-afc9-5d4b25a86439)
+![Screenshot 2023-09-06 233225](https://github.com/jaideepsingh0085/color-marker/assets/128147644/6496ba0c-8348-4a50-b2ae-9ab39b03b947)
+
+Hosted Link : https://jaideepsingh0085.github.io/color-marker/
+
 Html Description :
 <!DOCTYPE html>: Declares the document type and version as HTML5.
 <html lang="en">: Defines the HTML document with the English language.
